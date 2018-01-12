@@ -1,0 +1,13 @@
+
+
+== Starter Themes
+
+- https://html5up.net/[HTML5 UP!]
+Ghost::
+- https://github.com/TryGhost/Casper/tree/master/assets/css[Casper] ( https://demo.ghost.io/[demo] )
+Jekyll::
+- https://github.com/jekyll/jekyll/wiki/Themes/_history
+- https://github.com/jekyll/minima/tree/master/_sass/minima[minima] ( https://jekyll.github.io/minima/[demo] )
+- https://github.com/mmistakes/jekyll-theme-basically-basic/tree/master/_sass/basically-basic[mmistakes/jekyll-theme-basically-basic] ( https://mmistakes.github.io/jekyll-theme-basically-basic/[demo] )
+- https://github.com/poole/poole[poole] / https://github.com/poole/hyde[hype] ( http://hyde.getpoole.com/[demo] )
+* https://github.com/fongandrew/hydeout/tree/master/_sass/hydeout[hydeout] ( https://fongandrew.github.io/hydeout/[demo] )
