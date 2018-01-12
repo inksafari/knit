@@ -1,14 +1,70 @@
+== Accessibility
+- http://www.accessibilitycamp.org/[Accessibility Camp.org]
+- https://github.com/addyosmani/a11y[addyosmani/a11y: Accessibility audit tooling for the web (beta)]
+- http://accessible-colors.com/[Accessible Colors | WCAG 2.0 AA and AAA color contrast checker]
+- https://colorable.jxnblk.com/[Colorable]: Color combination contrast tester
 
 == References
 - http://htmlreference.io/
 - http://cssreference.io/
 
-=== HEAD elements
+== HEAD elements
 - https://github.com/ndarville/style/tree/master/html[Style Guide for HTML · ndarville/style · GitHub]
 - https://gethead.info/[<head> cheatsheet] - A free guide to <head> elements
 
+=== Favicons
+- https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html[Apple touch icon]
+- https://developer.apple.com/library/content/qa/qa1686/_index.html[App Icons on iPhone, iPad and Apple Watch]
+- https://developer.mozilla.org/en-US/docs/Web/Manifest[Web App Manifest | MDN]
+- https://github.com/Logiqx/cubing-icons[GitHub - Logiqx/cubing-icons: Favicons and Touch Icons]
+- http://brandmark.io/logo-crunch/[Logo Crunch - The multi-resolution logo maker]
+
+=== 隱私與安全
+
+Referrer Policy::
+- https://www.w3.org/TR/referrer-policy/[Referrer Policy | W3C]
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy[Referrer-Policy - HTTP | MDN]
+Content Security Policy ( CSP )::
+- https://www.w3.org/TR/CSP3/[Content Security Policy Level 3 | W3C]
+- https://content-security-policy.com/[Content Security Policy CSP Reference & Examples]
+- http://wps2015.org/drops/drops/GitHub%20CSP%E5%BA%94%E7%94%A8%E7%9A%84%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.html[GitHub CSP应用的经验分享 - 小饼仔]
+- https://github.com/nico3333fr/CSP-useful/tree/master/csp-for-third-party-services[Collection of examples]
+Subresource Integrity ( SRI )::
+- `<link rel="stylesheet" href="" integrity="" crossorigin="anonymous">`
+- `<script src="" integrity="" crossorigin="anonymous"></script>`
+- https://www.w3.org/TR/SRI/[Subresource Integrity | w3c]
+- https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity[Subresource Integrity - Web security | MDN]
+- https://www.srihash.org/[SRI Hash Generator]
+
+=== Resource Hints
+- https://w3c.github.io/resource-hints/[Resource Hints | W3C Editor's Draft]
+- https://www.keycdn.com/blog/resource-hints/[Resource Hints - What is Preload, Prefetch, and Preconnect?]
+- https://twitter.com/jaffathecake/status/931118613049888768[Jake Archibald on Twitter: "Due to complexity, missing features, and browser bugs, I don't think I'd recommend HTTP/2-push to anyone unless they'd exhausted all other o… https://t.co/BBMYvO5sOn"]
+
+.preconnect
+```html
+<link rel="preconnect" href="https://www.google-analytics.com/" crossorigin="anonymous">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:700|Open+Sans">
+```
+
+.preload
+```html
+<link rel="preload" as="font"   href="" integrity="" crossorigin="anonymous">
+                       "image"
+                       "style"
+                       "script"
+
+<link rel="preload" as="style" onload="this.rel='stylesheet'" href="" integrity="" crossorigin="anonymous">
+<noscript><link rel="stylesheet" href="" integrity="" crossorigin="anonymous"></noscript>
+```
+
+== Script elements
+- https://html.spec.whatwg.org/multipage/scripting.html#the-script-element
+
 == Style Guides
 - http://airbnb.io/projects/styleguides/[Style Guides | Airbnb Engineering]
+- https://10up.github.io/Engineering-Best-Practices/css/[10up Engineering Best Practices]
 - http://styleguides.io/
 
 == CSS Naming Conventions
@@ -23,3 +79,19 @@
 * https://github.com/Phlow/feeling-responsive[Phlow/feeling-responsive] ( https://phlow.github.io/feeling-responsive/[demo] )
 - https://www.iotacss.com/docs/[iotaCSS]
 - http://tachyons.io/[TACHYONS]
+
+== Tutorials
+- https://hackdesign.org/[Hack Design]
+- https://v1.designcode.io/learn[Design+Code]
+- https://developers.google.com/web/fundamentals/[Web Fundamentals  |  Google Developers]
+
+== Website Optimization Test
+- https://github.com/macbre/analyze-css[macbre/analyze-css]
+- http://cssstats.com
+- https://developers.google.com/speed/pagespeed/insights/[PageSpeed Insights]
+- https://www.webpagetest.org/[WebPagetest - Website Performance and Optimization Test]
+- https://developers.google.com/web/tools/lighthouse/[Lighthouse  |  Tools for Web Developers  |  Google Developers]
+
+////
+https://github.com/katiefenn/parker
+////
