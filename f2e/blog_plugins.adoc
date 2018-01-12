@@ -1,0 +1,38 @@
+== Anchor Links
+- https://www.bryanbraun.com/anchorjs/[AnchorJS]
+
+== Code Syntax Highlighters
+- https://ourcodeworld.com/articles/read/140/top-5-best-code-syntax-highlighter-javascript-plugins[Top 5 : Best code syntax highlighter javascript plugins | Our Code World]
+
+== Comment Systems
+
+Online Services::
+- https://disqus.com/[Disqus]
+- https://www.hypercomments.com/en/pricing[HyperComments]
+- https://livere.com/[LiveRe]
+GitHub Issues::
+- https://github.com/imsun/gitment[Gitment] ( https://imsun.github.io/gitment/[demo] )
+- http://www.hahack.com/codes/comment-js/[Comment.js]
+Self-Hosted Disqus Alternatives::
+- https://github.com/adtac/commento[Commento] ( https://commento.adtac.pw/[demo] )
+- https://posativ.org/isso/[Isso]
+- https://github.com/gka/schnack[Schnack.js]
+- https://staticman.net/[Staticman] ( GitHub Pages & Jekyll )
+
+== Contact Form
+- https://www.formlets.com/[Formlets]
+- https://formspree.io/[Formspree]
+
+== Google Analytics
+- https://github.com/googleanalytics/autotrack[Google Analytics Autotrack.js]
+
+== Hamburger Menus
+- https://jonsuh.com/hamburgers/[Hamburgers by Jonathan Suh]
+- https://www.nxworld.net/tips/10-css-hamburger-menu-icon-design-and-effect.html[CSSで実装するハンバーガーメニューアイコンの見栄えやクリック・ホバー時のエフェクト 10 | NxWorld]
+
+== Image Viewer
+- https://github.com/henrygd/bigpicture[BigPicture.js] ( https://henrygd.me/bigpicture/[demo] )
+
+== Math Typesetting
+- https://www.mathjax.org/[MathJax]
+- https://khan.github.io/KaTeX/[KaTeX]
