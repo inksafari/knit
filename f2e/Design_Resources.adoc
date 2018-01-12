@@ -1,0 +1,58 @@
+== Icons
+
+=== Icon Fonts & Vector Graphics
+- https://fontawesome.com/[Font Awesome] ( v5+ 支援 SVG )
+- https://nagoshiashumari.github.io/Rpg-Awesome/[RPG-Awesome]
+- https://material.io/icons/[Material icons]
+- https://sspai.com/post/42236[还在手工绘制图标？不如去这些网站寻找资源 - 少数派]
+
+=== SVG Icons
+- https://github.com/colebemis/feather/tree/master/icons[Feather] ( https://feathericons.com/[demo] )
+- https://simpleicons.org/[Simple Icons]
+
+== Web Fonts
+- https://fonts.google.com/[Google Fonts]
+- https://typekit.com/[Typekit]
+- http://typesquare.com/service/fontlist/[TypeSquare]
+- https://github.com/zachleat/web-font-loading-recipes[zachleat/web-font-loading-recipes]: A bunch of demos for different web font loading strategies.
+
+== Color Palettes
+- https://www.chenhuijing.com/css-colours/[CSS extended colour keywords]
+- https://github.com/chriskempson/base16[Base16]
+- https://yeun.github.io/open-color/[Open Color]
+- https://material.io/guidelines/style/color.html#color-color-palette[Color - Style - Material Design]
+* https://github.com/mrmlnc/material-color[mrmlnc/material-color]
+- http://varumarkesmanual.stockholm.se/grafisk-profil/farg/
+- http://www.colourlovers.com/palettes/search?sortCol=votes&sortBy=desc&query=&userName=&hex=FFB69F[COLOURlover]
+- https://uigradients.com/[uiGradients]
+- https://www.webcreatorbox.com/tag/colour[色彩 | Webクリエイターボックス]
+
+=== Traditional Colors
+- https://irocore.com/[日本人の美の心！日本の色【伝統色のいろは】]
+- http://nipponcolors.com/[NIPPON COLORS - 日本の伝統色] ( https://en.wikipedia.org/wiki/Traditional_colors_of_Japan[wiki] )
+- http://zhongguose.com/[中国色 - 中国传统颜色]
+- http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm[中国传统色彩颜色表(Chinese traditional colors )]
+
+== Background Textures
+- https://www.toptal.com/designers/subtlepatterns/[Subtle Patterns]
+- https://www.transparenttextures.com/[Transparent Textures]
+- https://free.com.tw/tag/%E8%83%8C%E6%99%AF%E7%B4%A0%E6%9D%90/[背景素材 – 免費資源網路社群]
+
+== Stock Images
+- https://unsplash.com/[Beautiful Free Images | Unsplash]
+- http://www.gettyimages.com/[Stock Photography, Royalty-Free Photos & The Latest News Pictures | Getty Images]
+- https://photodune.net/[Royalty Free Stock Photos & Images from PhotoDune]
+- https://www.shutterstock.com/[Stock Photos, Royalty-Free Images and Vectors - Shutterstock]
+- https://free.com.tw/tag/cc0/[cc0] / https://free.com.tw/tag/%e5%85%8d%e8%b2%bb%e5%9c%96%e7%89%87/[免費圖片 – 免費資源網路社群] 
+- http://www.playpcesor.com/search/label/%E5%9C%96%E5%BA%AB%E7%B4%A0%E6%9D%90[電腦玩物]
+- http://www.tadapic.com/[フリー素材、無料画像の横断検索サイトNo.1【タダピク】]
+
+== Stock Audios & Videos
+- https://sspai.com/post/42505[为了苦苦寻觅音频素材的你，我们又整理了 9 个无版权音频网站 - 少数派]
+- https://sspai.com/post/42431[为了苦苦寻觅视频素材的你，我们整理了 9 个无版权视频网站 - 少数派]
+- https://www.videoblocks.com/[VideoBlocks]
+
+== Freebies
+- http://freebbble.com/[Freebbble | Download free, high quality design resources from Dribbble]
+- http://coliss.com/articles/category/freebies/[Freebies | コリス]
+
