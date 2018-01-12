@@ -3,6 +3,10 @@
 - http://htmlreference.io/
 - http://cssreference.io/
 
+=== HEAD elements
+- https://github.com/ndarville/style/tree/master/html[Style Guide for HTML · ndarville/style · GitHub]
+- https://gethead.info/[<head> cheatsheet] - A free guide to <head> elements
+
 == Style Guides
 - http://airbnb.io/projects/styleguides/[Style Guides | Airbnb Engineering]
 - http://styleguides.io/
