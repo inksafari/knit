@@ -3,29 +3,42 @@
 === Icon Fonts & Vector Graphics
 - https://fontawesome.com/[Font Awesome] ( v5+ 支援 SVG )
 - https://nagoshiashumari.github.io/Rpg-Awesome/[RPG-Awesome]
+- http://fontisto.com/[Fontisto]
 - https://material.io/icons/[Material icons]
 - https://sspai.com/post/42236[还在手工绘制图标？不如去这些网站寻找资源 - 少数派]
 
 === SVG Icons
+- https://danklammer.com/bytesize-icons/[Bytesize]
 - https://github.com/colebemis/feather/tree/master/icons[Feather] ( https://feathericons.com/[demo] )
+- https://www.freepik.com/free-icons[Freepik] ( https://www.flaticon.com/[Flaticon Free Plan] )
 - https://simpleicons.org/[Simple Icons]
 
 == Web Fonts
+- https://www.fontsquirrel.com[Font Squirrel]
 - https://fonts.google.com/[Google Fonts]
 - https://typekit.com/[Typekit]
 - http://typesquare.com/service/fontlist/[TypeSquare]
 - https://github.com/zachleat/web-font-loading-recipes[zachleat/web-font-loading-recipes]: A bunch of demos for different web font loading strategies.
 
+// https://github.com/qrpike/Web-Font-Load
+
+=== 壓縮工具
+- https://github.com/aui/font-spider[Font-spider 字蛛]
+- https://github.com/JailBreakC/font-collector[JailBreakC/font-collector]
+
 == Color Palettes
 - https://www.chenhuijing.com/css-colours/[CSS extended colour keywords]
 - https://github.com/chriskempson/base16[Base16]
-- https://yeun.github.io/open-color/[Open Color]
+- http://clrs.cc[clrs]
 - https://material.io/guidelines/style/color.html#color-color-palette[Color - Style - Material Design]
 * https://github.com/mrmlnc/material-color[mrmlnc/material-color]
+- https://yeun.github.io/open-color/[Open Color]
 - http://varumarkesmanual.stockholm.se/grafisk-profil/farg/
 - http://www.colourlovers.com/palettes/search?sortCol=votes&sortBy=desc&query=&userName=&hex=FFB69F[COLOURlover]
 - https://uigradients.com/[uiGradients]
 - https://www.webcreatorbox.com/tag/colour[色彩 | Webクリエイターボックス]
+- https://1stwebdesigner.com/web-based-color-tools/[Top 12 Web-Based Color Tools for Web Designers - 1stWebDesigner]
+- https://github.com/at-import/color-schemer[at-import/color-schemer]: Color schemer is a robust color toolset for Sass.
 
 === Traditional Colors
 - https://irocore.com/[日本人の美の心！日本の色【伝統色のいろは】]
@@ -46,6 +59,7 @@
 - https://free.com.tw/tag/cc0/[cc0] / https://free.com.tw/tag/%e5%85%8d%e8%b2%bb%e5%9c%96%e7%89%87/[免費圖片 – 免費資源網路社群] 
 - http://www.playpcesor.com/search/label/%E5%9C%96%E5%BA%AB%E7%B4%A0%E6%9D%90[電腦玩物]
 - http://www.tadapic.com/[フリー素材、無料画像の横断検索サイトNo.1【タダピク】]
+- https://1stwebdesigner.com/best-free-stock-photos/[The 10 Best Sites To Find Completely Free Stock Photos - 1stWebDesigner]
 
 == Stock Audios & Videos
 - https://sspai.com/post/42505[为了苦苦寻觅音频素材的你，我们又整理了 9 个无版权音频网站 - 少数派]
@@ -53,6 +67,6 @@
 - https://www.videoblocks.com/[VideoBlocks]
 
 == Freebies
+- https://www.freepik.com/[Freepik]
 - http://freebbble.com/[Freebbble | Download free, high quality design resources from Dribbble]
 - http://coliss.com/articles/category/freebies/[Freebies | コリス]
-

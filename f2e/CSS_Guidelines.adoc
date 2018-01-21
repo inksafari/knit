@@ -1,8 +1,11 @@
 == Accessibility
 - http://www.accessibilitycamp.org/[Accessibility Camp.org]
-- https://github.com/addyosmani/a11y[addyosmani/a11y: Accessibility audit tooling for the web (beta)]
+- https://github.com/ffoodd/a11y.css[/ffoodd/a11y.css]
+- https://github.com/addyosmani/a11y[addyosmani/a11y]: Accessibility audit tooling for the web (beta)
+- https://github.com/github/accessibilityjs[accessibilityjs]: Client side accessibility error scanner.
 - http://accessible-colors.com/[Accessible Colors | WCAG 2.0 AA and AAA color contrast checker]
 - https://colorable.jxnblk.com/[Colorable]: Color combination contrast tester
+- https://github.com/kontraster/kontraster[kontraster]: A tool to help audit a website’s colour contrast
 
 == References
 - http://htmlreference.io/
@@ -11,6 +14,8 @@
 == HEAD elements
 - https://github.com/ndarville/style/tree/master/html[Style Guide for HTML · ndarville/style · GitHub]
 - https://gethead.info/[<head> cheatsheet] - A free guide to <head> elements
+- https://megatags.co/
+- https://laozhu.me/post/html-head-best-practices/[HTML 文档之 Head 最佳实践]
 
 === Favicons
 - https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html[Apple touch icon]
@@ -59,7 +64,7 @@ Subresource Integrity ( SRI )::
 <noscript><link rel="stylesheet" href="" integrity="" crossorigin="anonymous"></noscript>
 ```
 
-== Script elements
+== Script Element
 - https://html.spec.whatwg.org/multipage/scripting.html#the-script-element
 
 == Style Guides
@@ -73,17 +78,13 @@ Subresource Integrity ( SRI )::
 - http://rscss.io[rscss]
 - http://qiita.com/sueshin/items/c80151181d06649e2ff6[CSS設計を勉強するならまずこれを見たら良いかも - Qiita]
 
-== CSS frameworks
-- http://basscss.com/[Basscss]: Low-Level CSS Toolkit
-- https://github.com/zurb/foundation-sites/tree/develop/scss[Foundation] ( https://foundation.zurb.com/sites/docs/[doc] )
-* https://github.com/Phlow/feeling-responsive[Phlow/feeling-responsive] ( https://phlow.github.io/feeling-responsive/[demo] )
-- https://www.iotacss.com/docs/[iotaCSS]
-- http://tachyons.io/[TACHYONS]
-
 == Tutorials
 - https://hackdesign.org/[Hack Design]
 - https://v1.designcode.io/learn[Design+Code]
 - https://developers.google.com/web/fundamentals/[Web Fundamentals  |  Google Developers]
+
+== Tools
+- https://specificity.keegan.st/[Specificity Calculator]
 
 == Website Optimization Test
 - https://github.com/macbre/analyze-css[macbre/analyze-css]
@@ -91,6 +92,7 @@ Subresource Integrity ( SRI )::
 - https://developers.google.com/speed/pagespeed/insights/[PageSpeed Insights]
 - https://www.webpagetest.org/[WebPagetest - Website Performance and Optimization Test]
 - https://developers.google.com/web/tools/lighthouse/[Lighthouse  |  Tools for Web Developers  |  Google Developers]
+- https://www.smashingmagazine.com/2018/01/front-end-performance-checklist-2018-pdf-pages/[Front-End Performance Checklist 2018 <PDF, Apple Pages> — Smashing Magazine]
 
 ////
 https://github.com/katiefenn/parker

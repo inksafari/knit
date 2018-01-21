@@ -1,6 +1,38 @@
+= CSS Reset
 - https://meyerweb.com/eric/tools/css/reset/
 - https://github.com/jgthms/minireset.css/blob/master/minireset.css[minireset.css]
 - https://necolas.github.io/normalize.css/[Normalize.css]
 * https://github.com/kennethormandy/normalize-opentype.css[kennethormandy/normalize-opentype.css]: Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 * https://hanzi.pro/[Han.css] ( https://ethantw.github.io/Han/latest/[demo] )
 - https://github.com/jonathantneal/sanitize.css/blob/master/sanitize.css[sanitize.css]
+
+== Web Typography Starter Kit
+- https://matejlatin.github.io/Gutenberg/[Gutenberg] — A Meaningful Web Typography Starter Kit
+
+// https://sassline.com/
+
+=== 適合中文閱讀
+- https://github.com/ethantw/Han[Han.css「漢字標準格式」] ( https://hanzi.pro/manual/yangshi_biaozhunhua[demo] )
+- https://typo.sofi.sh/[Typo.css - 中文网页重设与排版]
+- https://lab.lepture.com/yue.css/[yue.css]
+
+== Typography
+- https://github.com/kennethwang14/TypographyHandbook[Typography Handbook]: A concise, referential guide on best web typographic practices.
+
+=== tools
+- https://pearsonified.com/typography/[Pearsonified’s Golden Ratio Typography Calculator]
+- http://nowodzinski.pl/syncope/[Syncope]
+- http://www.modularscale.com/[Modularscale]
+* https://github.com/modularscale/modularscale-sass[modularscale/modularscale-sass]: Modular scale calculator built into your Sass
+- http://emilolsson.com/tools/vw-unit-calc-an-online-responsive-css-font-size-calculator/[Viewport Units Calculator]
+- http://pxtovw.com/[PXtoVW.com]
+
+== CSS Frameworks
+- http://basscss.com/[Basscss]: Low-Level CSS Toolkit
+- https://bulma.io/[Bulma]
+* https://github.com/Wikiki/bulma-extensions[Wikiki/bulma-extensions]
+- https://github.com/zurb/foundation-sites/tree/develop/scss[Foundation] ( https://foundation.zurb.com/sites/docs/[doc] )
+* https://github.com/swcarpentry/website/tree/gh-pages/_sass[swcarpentry/website] ( https://software-carpentry.org/[demo] )
+* https://github.com/Phlow/feeling-responsive[Phlow/feeling-responsive] ( https://phlow.github.io/feeling-responsive/[demo] )
+- https://www.iotacss.com/docs/[iotaCSS]
+- http://tachyons.io/[TACHYONS]

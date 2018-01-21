@@ -1,13 +1,25 @@
-
-
 == Starter Themes
 
 - https://html5up.net/[HTML5 UP!]
 Ghost::
 - https://github.com/TryGhost/Casper/tree/master/assets/css[Casper] ( https://demo.ghost.io/[demo] )
+- https://marketplace.ghost.org/
+Hatena::
+- https://github.com/hatena/Hatena-Blog-Theme-Boilerplate/blob/master/scss/lib/_core.scss[Hatena-Blog-Theme-Boilerplate]
+Hexo::
+- https://hexo.io/themes/index.html
+Hugo::
+- https://themes.gohugo.io/
+- https://github.com/gcushen/hugo-academic[hugo-academic] ( https://sourcethemes.com/academic/post/writing-markdown-latex/[demo] )
+- https://github.com/road2stat/hugo-tanka/blob/master/static/css/style.css[hugo-tanka] ( https://nanx.me/blog/post/hugo-tanka-theme/[demo] )
+- https://github.com/MunifTanjim/minimo/tree/master/src/stylesheets[MunifTanjim/minimo] ( https://minimo.netlify.com/[demo] )
 Jekyll::
 - https://github.com/jekyll/jekyll/wiki/Themes/_history
 - https://github.com/jekyll/minima/tree/master/_sass/minima[minima] ( https://jekyll.github.io/minima/[demo] )
 - https://github.com/mmistakes/jekyll-theme-basically-basic/tree/master/_sass/basically-basic[mmistakes/jekyll-theme-basically-basic] ( https://mmistakes.github.io/jekyll-theme-basically-basic/[demo] )
+- https://github.com/johnotander/pixyll/tree/master/_sass[Pixyll] ( http://pixyll.com/[demo] )
 - https://github.com/poole/poole[poole] / https://github.com/poole/hyde[hype] ( http://hyde.getpoole.com/[demo] )
 * https://github.com/fongandrew/hydeout/tree/master/_sass/hydeout[hydeout] ( https://fongandrew.github.io/hydeout/[demo] )
+- https://github.com/chesterhow/tale/tree/master/_sass[tale] ( https://chesterhow.github.io/tale/[demo] )
+Publii::
+- https://github.com/GetPublii/theme-Starter/tree/master/assets/sass[starter-publii-theme] ( https://getpublii.com/themes/demo/starter/[demo] )

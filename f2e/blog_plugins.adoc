@@ -13,7 +13,8 @@ Online Services::
 GitHub Issues::
 - https://github.com/imsun/gitment[Gitment] ( https://imsun.github.io/gitment/[demo] )
 - http://www.hahack.com/codes/comment-js/[Comment.js]
-Self-Hosted Disqus Alternatives::
+Self-Hosted Cmment Systems::
+- https://commentit.io/[Comm(ent|it)] ( GitHub Pages & Jekyll )
 - https://github.com/adtac/commento[Commento] ( https://commento.adtac.pw/[demo] )
 - https://posativ.org/isso/[Isso]
 - https://github.com/gka/schnack[Schnack.js]
@@ -23,16 +24,20 @@ Self-Hosted Disqus Alternatives::
 - https://www.formlets.com/[Formlets]
 - https://formspree.io/[Formspree]
 
-== Google Analytics
-- https://github.com/googleanalytics/autotrack[Google Analytics Autotrack.js]
-
 == Hamburger Menus
 - https://jonsuh.com/hamburgers/[Hamburgers by Jonathan Suh]
 - https://www.nxworld.net/tips/10-css-hamburger-menu-icon-design-and-effect.html[CSSで実装するハンバーガーメニューアイコンの見栄えやクリック・ホバー時のエフェクト 10 | NxWorld]
 
-== Image Viewer
+== Images
+- https://github.com/aFarkas/lazysizes[lazysizes]: High performance and SEO friendly lazy loader for images
 - https://github.com/henrygd/bigpicture[BigPicture.js] ( https://henrygd.me/bigpicture/[demo] )
 
 == Math Typesetting
 - https://www.mathjax.org/[MathJax]
 - https://khan.github.io/KaTeX/[KaTeX]
+
+== Searching
+- https://lunrjs.com/[Lunr.js]footnote:[https://www.jianshu.com/p/d5308e4c8841[mkdocs如何支持中文搜索 - 简书]]
+
+== Tracking
+- https://github.com/googleanalytics/autotrack[Google Analytics Autotrack.js]
